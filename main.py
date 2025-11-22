@@ -4,7 +4,7 @@ import os
 import json
 from datetime import datetime
 
-TOKEN = "token_qoying"
+TOKEN = "8277914751:AAHuXaYGlWybbv8UT8aR3B6zREwYyupiPXk"
 DOWNLOAD_FOLDER = "downloads"
 LOG_FILE = "bot_log.json"
 STATS_FILE = "bot_stats.json"
